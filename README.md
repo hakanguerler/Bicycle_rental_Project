@@ -10,5 +10,5 @@ Regularized Linear Regression (Lasso)
 #numpy #pandas #matplotlib #sklearn
 
 
-Data source: https://www.kaggle.com/lakshmi25npathi/bike-sharing-dataset
+
 
